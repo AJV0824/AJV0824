@@ -1,3 +1,5 @@
 ploomber
 pandas
-scikit-learn
+numpy
+io
+requests
