@@ -1,0 +1,10 @@
+tasks:
+  - source: get.py
+    product:
+     data: output\data.csv
+     nb: output\get.ipynb
+
+  - source: norm.py
+    product:
+      data: output\extract.csv
+      nb: output\norm.ipynb
